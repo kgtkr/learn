@@ -2,7 +2,7 @@
 authors = ["kgtkr"]
 multilingual = false
 src = "src"
-title = "Learn Math"
+title = "Math"
 
 [output.html]
 mathjax-support = true
