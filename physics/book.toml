@@ -1,0 +1,8 @@
+[book]
+authors = ["kgtkr"]
+multilingual = false
+src = "src"
+title = "Physics"
+
+[output.html]
+mathjax-support = true
